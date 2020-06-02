@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+	<settings>
+		<label>Battleship</label>
+		<root_path>\</root_path>
+		<output_path>\</output_path>
+		<source_path>\</source_path>
+		<jdkprofile_ref>JDK version 1.8.0_31</jdkprofile_ref>
+		<compiler_ref/>
+		<ant_ref/>
+	</settings>
+	<ant_events/>
+	<run_items>
+		<item run="BattleShip_Cliet"/>
+		<item run="BattleShip_DB"/>
+		<item run="BattleShip_MP"/>
+		<item run="BattleShip_Server"/>
+	</run_items>
+	<runtimes>
+		<runtime>
+			<label>&lt;Default&gt;</label>
+			<application_ref>&lt;Default&gt;</application_ref>
+			<applet_ref/>
+			<debugger_ref/>
+			<param/>
+			<run>BattleShip_Cliet</run>
+			<verify>true</verify>
+		</runtime>
+		<runtime>
+			<label>Battleship_MP</label>
+			<application_ref>&lt;Default&gt;</application_ref>
+			<applet_ref>&lt;Default&gt;</applet_ref>
+			<debugger_ref>&lt;Default&gt;</debugger_ref>
+			<param/>
+			<run>BattleShip_MP</run>
+			<verify>true</verify>
+		</runtime>
+		<runtime>
+			<label>BS Client</label>
+			<application_ref>&lt;Default&gt;</application_ref>
+			<applet_ref>&lt;Default&gt;</applet_ref>
+			<debugger_ref>&lt;Default&gt;</debugger_ref>
+			<param/>
+			<run>BattleShip_Cliet</run>
+			<verify>true</verify>
+		</runtime>
+		<runtime>
+			<label>BS DB</label>
+			<application_ref>&lt;Default&gt;</application_ref>
+			<applet_ref>&lt;Default&gt;</applet_ref>
+			<debugger_ref>&lt;Default&gt;</debugger_ref>
+			<param/>
+			<run>BattleShip_DB</run>
+			<verify>true</verify>
+		</runtime>
+		<runtime>
+			<label>BS Server</label>
+			<application_ref>&lt;Default&gt;</application_ref>
+			<applet_ref>&lt;Default&gt;</applet_ref>
+			<debugger_ref>&lt;Default&gt;</debugger_ref>
+			<param/>
+			<run>BattleShip_Server</run>
+			<verify>true</verify>
+		</runtime>
+	</runtimes>
+	<libraries/>
+	<files>
+		<include>
+			<folderitem>
+				<path>testdb</path>
+			</folderitem>
+			<fileitem>
+				<path>BattleShip_Cliet.java</path>
+			</fileitem>
+			<fileitem>
+				<path>BattleShip_DB.java</path>
+			</fileitem>
+			<fileitem>
+				<path>BattleShip_MP.java</path>
+			</fileitem>
+			<fileitem>
+				<path>BattleShip_Server.java</path>
+			</fileitem>
+			<fileitem>
+				<path>testdb\service.properties</path>
+				<folder>testdb</folder>
+			</fileitem>
+		</include>
+	</files>
+	<tasks/>
+</project>

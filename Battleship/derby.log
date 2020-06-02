@@ -1,0 +1,12 @@
+----------------------------------------------------------------
+Sun May 24 19:42:46 BOT 2015:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.3 - (1557168): instance a816c00e-014d-884e-a72d-0000033680e8 
+on database directory C:\Users\alexi_000\Documents\JCreator LE\MyProjects\Battleship\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_31/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_31-b13
+user.dir=C:\Users\alexi_000\Documents\JCreator LE\MyProjects\Battleship
+os.name=Windows 8
+os.arch=amd64
+os.version=6.2
+derby.system.home=null

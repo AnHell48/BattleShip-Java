@@ -1,0 +1,4 @@
+"C:\\Users\\alexi_000\\Documents\\JCreator LE\\MyProjects\\Battleship\\BattleShip_Cliet.java"
+"C:\\Users\\alexi_000\\Documents\\JCreator LE\\MyProjects\\Battleship\\BattleShip_DB.java"
+"C:\\Users\\alexi_000\\Documents\\JCreator LE\\MyProjects\\Battleship\\BattleShip_MP.java"
+"C:\\Users\\alexi_000\\Documents\\JCreator LE\\MyProjects\\Battleship\\BattleShip_Server.java"

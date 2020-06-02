@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>Battleship</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>Battleship</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>testdb</path>
+			</folderitem>
+			<fileitem>
+				<path>BattleShip_DB.java</path>
+				<collapsedfolds>0;0;0;123;67;21</collapsedfolds>
+			</fileitem>
+			<fileitem>
+				<path>BattleShip_MP.java</path>
+				<collapsedfolds>0;0;0;0;0;0;0;346;271;229;221;61;30;27</collapsedfolds>
+			</fileitem>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>BattleShip_DB.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>BattleShip_MP.java</path>
+			<source>true</source>
+			<index>1</index>
+			<active>true</active>
+		</docitem>
+		<docitem>
+			<path>BattleShip_Server.java</path>
+			<source>true</source>
+			<index>2</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>BattleShip_Cliet.java</path>
+			<source>true</source>
+			<index>3</index>
+			<active>false</active>
+		</docitem>
+	</open_files>
+</workspace_user>
